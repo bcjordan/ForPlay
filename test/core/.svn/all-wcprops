@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/127/trunk/test/core
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/9/trunk/test/core/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/9/trunk/test/core/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/9/trunk/test/core/.gitignore
+END

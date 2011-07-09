@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder
+END
+OutputChannels.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/OutputChannels.html
+END
+Crc16.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/Crc16.html
+END
+Control.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/Control.html
+END
+FrameDecoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/FrameDecoder.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/package-frame.html
+END
+DecoderException.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/DecoderException.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/package-summary.html
+END
+BitstreamErrors.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/BitstreamErrors.html
+END
+Decoder.Params.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/Decoder.Params.html
+END
+Header.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/Header.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/package-tree.html
+END
+Obuffer.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/Obuffer.html
+END
+JavaLayerError.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/JavaLayerError.html
+END
+Bitstream.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/Bitstream.html
+END
+InputStreamSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/InputStreamSource.html
+END
+JavaLayerException.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/JavaLayerException.html
+END
+JavaLayerHook.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/JavaLayerHook.html
+END
+JavaLayerUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/JavaLayerUtils.html
+END
+Source.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/Source.html
+END
+Equalizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/Equalizer.html
+END
+DecoderErrors.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/DecoderErrors.html
+END
+Decoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/Decoder.html
+END
+BitstreamException.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/BitstreamException.html
+END
+Manager.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/Manager.html
+END
+Equalizer.EQFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/Equalizer.EQFunction.html
+END
+SampleBuffer.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/SampleBuffer.html
+END
+JavaLayerErrors.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/doc/javazoom/jl/decoder/JavaLayerErrors.html
+END

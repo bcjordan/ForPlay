@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/191/trunk/core/gwtbox2d/org/jbox2d/structs/collision
+END
+TestSegmentResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/structs/collision/TestSegmentResult.java
+END
+ManifoldPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/structs/collision/ManifoldPoint.java
+END
+ClipVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/structs/collision/ClipVertex.java
+END
+RayCastInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/structs/collision/RayCastInput.java
+END
+RayCastOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/191/trunk/core/gwtbox2d/org/jbox2d/structs/collision/RayCastOutput.java
+END
+ContactID.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/structs/collision/ContactID.java
+END
+PointState.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/structs/collision/PointState.java
+END
+TOIInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/structs/collision/TOIInput.java
+END
+TOIOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/structs/collision/TOIOutput.java
+END

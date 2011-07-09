@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4/LICENSE.txt
+END
+mp3spi1.9.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4/mp3spi1.9.4.jar
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4/CHANGES.txt
+END
+setenv.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4/setenv.bat
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4/README.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4/build.xml
+END

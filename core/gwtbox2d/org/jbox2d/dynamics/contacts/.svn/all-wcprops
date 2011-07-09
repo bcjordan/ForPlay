@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/191/trunk/core/gwtbox2d/org/jbox2d/dynamics/contacts
+END
+ContactConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/dynamics/contacts/ContactConstraint.java
+END
+ContactEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/dynamics/contacts/ContactEdge.java
+END
+ContactRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/dynamics/contacts/ContactRegister.java
+END
+TOIConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/dynamics/contacts/TOIConstraint.java
+END
+PolygonContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/dynamics/contacts/PolygonContact.java
+END
+TOISolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/dynamics/contacts/TOISolver.java
+END
+ContactSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/191/trunk/core/gwtbox2d/org/jbox2d/dynamics/contacts/ContactSolver.java
+END
+PolygonAndCircleContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/dynamics/contacts/PolygonAndCircleContact.java
+END
+ContactConstraintPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/dynamics/contacts/ContactConstraintPoint.java
+END
+Contact.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/119/trunk/core/gwtbox2d/org/jbox2d/dynamics/contacts/Contact.java
+END
+ContactCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/dynamics/contacts/ContactCreator.java
+END
+CircleContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/dynamics/contacts/CircleContact.java
+END

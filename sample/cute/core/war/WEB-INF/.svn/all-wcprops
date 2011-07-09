@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/125/trunk/sample/cute/core/war/WEB-INF
+END
+appengine-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/114/trunk/sample/cute/core/war/WEB-INF/appengine-web.xml
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/sample/cute/core/war/WEB-INF/.gitignore
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/sample/cute/core/war/WEB-INF/web.xml
+END

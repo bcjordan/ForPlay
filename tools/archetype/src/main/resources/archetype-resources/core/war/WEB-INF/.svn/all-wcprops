@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/46/trunk/tools/archetype/src/main/resources/archetype-resources/core/war/WEB-INF
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/46/trunk/tools/archetype/src/main/resources/archetype-resources/core/war/WEB-INF/.gitignore
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/46/trunk/tools/archetype/src/main/resources/archetype-resources/core/war/WEB-INF/web.xml
+END

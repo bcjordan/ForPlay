@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/206/trunk/sample/hello/android
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/21/trunk/sample/hello/android/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/sample/hello/android/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/sample/hello/android/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/sample/hello/android/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/sample/hello/android/.gitignore
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/204/trunk/sample/hello/android/AndroidManifest.xml
+END
+hello-android.launch
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/21/trunk/sample/hello/android/hello-android.launch
+END

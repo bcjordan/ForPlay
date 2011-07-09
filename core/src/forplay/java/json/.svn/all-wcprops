@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/135/trunk/core/src/forplay/java/json
+END
+JSONString.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/trunk/core/src/forplay/java/json/JSONString.java
+END
+JSONObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/trunk/core/src/forplay/java/json/JSONObject.java
+END
+JSONTokener.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/135/trunk/core/src/forplay/java/json/JSONTokener.java
+END
+JSONWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/trunk/core/src/forplay/java/json/JSONWriter.java
+END
+JSONStringer.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/135/trunk/core/src/forplay/java/json/JSONStringer.java
+END
+JSONException.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/135/trunk/core/src/forplay/java/json/JSONException.java
+END
+JSONArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/135/trunk/core/src/forplay/java/json/JSONArray.java
+END

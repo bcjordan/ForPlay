@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/209/trunk/core
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/209/trunk/core/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/9/trunk/core/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/core/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/162/trunk/core/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/118/trunk/core/build.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/87/trunk/sample/noise/lib/VorbisSPI1.0.3
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/87/trunk/sample/noise/lib/VorbisSPI1.0.3/LICENSE.txt
+END
+setenv.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/87/trunk/sample/noise/lib/VorbisSPI1.0.3/setenv.bat
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/87/trunk/sample/noise/lib/VorbisSPI1.0.3/README.txt
+END
+vorbisspi1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/87/trunk/sample/noise/lib/VorbisSPI1.0.3/vorbisspi1.0.3.jar
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/87/trunk/sample/noise/lib/VorbisSPI1.0.3/build.xml
+END

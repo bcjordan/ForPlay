@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/125/trunk/sample/noise/war/WEB-INF
+END
+appengine-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/88/trunk/sample/noise/war/WEB-INF/appengine-web.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/88/trunk/sample/noise/war/WEB-INF/web.xml
+END

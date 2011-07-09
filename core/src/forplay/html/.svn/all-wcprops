@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/207/trunk/core/src/forplay/html
+END
+HtmlSurfaceGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/184/trunk/core/src/forplay/html/HtmlSurfaceGL.java
+END
+HtmlCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/175/trunk/core/src/forplay/html/HtmlCanvas.java
+END
+HtmlGroupLayerGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/207/trunk/core/src/forplay/html/HtmlGroupLayerGL.java
+END
+HtmlPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/core/src/forplay/html/HtmlPattern.java
+END
+HtmlImageLayerDom.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/175/trunk/core/src/forplay/html/HtmlImageLayerDom.java
+END
+HtmlPointer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/80/trunk/core/src/forplay/html/HtmlPointer.java
+END
+HtmlLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/129/trunk/core/src/forplay/html/HtmlLog.java
+END
+HtmlImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/184/trunk/core/src/forplay/html/HtmlImage.java
+END
+HtmlUrlParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/119/trunk/core/src/forplay/html/HtmlUrlParameters.java
+END
+HtmlAnalytics.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/185/trunk/core/src/forplay/html/HtmlAnalytics.java
+END
+HtmlSound.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/175/trunk/core/src/forplay/html/HtmlSound.java
+END
+HtmlGroupLayerDom.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/205/trunk/core/src/forplay/html/HtmlGroupLayerDom.java
+END
+vertex-shader.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/core/src/forplay/html/vertex-shader.txt
+END
+EventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/core/src/forplay/html/EventHandler.java
+END
+HtmlCanvasLayerGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/207/trunk/core/src/forplay/html/HtmlCanvasLayerGL.java
+END
+color-fragment-shader.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/184/trunk/core/src/forplay/html/color-fragment-shader.txt
+END
+HtmlPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/175/trunk/core/src/forplay/html/HtmlPath.java
+END
+HtmlGraphicsDom.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/109/trunk/core/src/forplay/html/HtmlGraphicsDom.java
+END
+HtmlGraphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/175/trunk/core/src/forplay/html/HtmlGraphics.java
+END
+HtmlKeyboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/203/trunk/core/src/forplay/html/HtmlKeyboard.java
+END
+Shaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/core/src/forplay/html/Shaders.java
+END
+HtmlStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/core/src/forplay/html/HtmlStorage.java
+END
+TimerCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/core/src/forplay/html/TimerCallback.java
+END
+HtmlSurfaceLayerGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/207/trunk/core/src/forplay/html/HtmlSurfaceLayerGL.java
+END
+HtmlJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/179/trunk/core/src/forplay/html/HtmlJson.java
+END
+HtmlGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/195/trunk/core/src/forplay/html/HtmlGame.java
+END
+HtmlAssetManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/198/trunk/core/src/forplay/html/HtmlAssetManager.java
+END
+HtmlLayerDom.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/207/trunk/core/src/forplay/html/HtmlLayerDom.java
+END
+HtmlCanvasImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/core/src/forplay/html/HtmlCanvasImage.java
+END
+tex-fragment-shader.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/184/trunk/core/src/forplay/html/tex-fragment-shader.txt
+END
+HtmlRegularExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/core/src/forplay/html/HtmlRegularExpression.java
+END
+HtmlTouch.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/79/trunk/core/src/forplay/html/HtmlTouch.java
+END
+XDomainRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/core/src/forplay/html/XDomainRequest.java
+END
+HtmlGraphicsGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/184/trunk/core/src/forplay/html/HtmlGraphicsGL.java
+END
+HtmlPlatform.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/191/trunk/core/src/forplay/html/HtmlPlatform.java
+END
+HtmlSurfaceLayerDom.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/core/src/forplay/html/HtmlSurfaceLayerDom.java
+END
+HtmlNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/core/src/forplay/html/HtmlNet.java
+END
+HtmlMouse.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/79/trunk/core/src/forplay/html/HtmlMouse.java
+END
+HtmlLogSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/193/trunk/core/src/forplay/html/HtmlLogSimple.java
+END
+HtmlGradient.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/core/src/forplay/html/HtmlGradient.java
+END
+HtmlInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/78/trunk/core/src/forplay/html/HtmlInput.java
+END
+HtmlLayerGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/184/trunk/core/src/forplay/html/HtmlLayerGL.java
+END
+HtmlAudio.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/185/trunk/core/src/forplay/html/HtmlAudio.java
+END
+HtmlImageLayerGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/207/trunk/core/src/forplay/html/HtmlImageLayerGL.java
+END
+HtmlCanvasLayerDom.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/core/src/forplay/html/HtmlCanvasLayerDom.java
+END

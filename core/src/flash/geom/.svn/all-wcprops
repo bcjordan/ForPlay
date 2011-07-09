@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/160/trunk/core/src/flash/geom
+END
+Rectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/160/trunk/core/src/flash/geom/Rectangle.java
+END
+Point.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/160/trunk/core/src/flash/geom/Point.java
+END
+Transform.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/160/trunk/core/src/flash/geom/Transform.java
+END

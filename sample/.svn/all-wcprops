@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/206/trunk/sample
+END
+build-common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/201/trunk/sample/build-common.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/162/trunk/sample/pom.xml
+END

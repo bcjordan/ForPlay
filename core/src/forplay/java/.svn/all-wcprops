@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/207/trunk/core/src/forplay/java
+END
+JavaGradient.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/core/src/forplay/java/JavaGradient.java
+END
+JavaJLayerSound.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/175/trunk/core/src/forplay/java/JavaJLayerSound.java
+END
+JavaKeyboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/core/src/forplay/java/JavaKeyboard.java
+END
+JavaGraphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/175/trunk/core/src/forplay/java/JavaGraphics.java
+END
+JavaAudio.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/core/src/forplay/java/JavaAudio.java
+END
+JavaStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/171/trunk/core/src/forplay/java/JavaStorage.java
+END
+JavaCanvasLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/207/trunk/core/src/forplay/java/JavaCanvasLayer.java
+END
+JavaJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/135/trunk/core/src/forplay/java/JavaJson.java
+END
+JavaAssetManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/157/trunk/core/src/forplay/java/JavaAssetManager.java
+END
+JavaCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/184/trunk/core/src/forplay/java/JavaCanvas.java
+END
+JavaCanvasState.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184/trunk/core/src/forplay/java/JavaCanvasState.java
+END
+JavaLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/184/trunk/core/src/forplay/java/JavaLayer.java
+END
+JavaPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/core/src/forplay/java/JavaPattern.java
+END
+JavaImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/207/trunk/core/src/forplay/java/JavaImageLayer.java
+END
+JavaPointer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/80/trunk/core/src/forplay/java/JavaPointer.java
+END
+JavaRegularExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9/trunk/core/src/forplay/java/JavaRegularExpression.java
+END
+JavaLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/193/trunk/core/src/forplay/java/JavaLog.java
+END
+JavaImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/175/trunk/core/src/forplay/java/JavaImage.java
+END
+JavaPlatform.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/187/trunk/core/src/forplay/java/JavaPlatform.java
+END
+JavaSurfaceLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/207/trunk/core/src/forplay/java/JavaSurfaceLayer.java
+END
+JavaNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/157/trunk/core/src/forplay/java/JavaNet.java
+END
+JavaAnalytics.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/73/trunk/core/src/forplay/java/JavaAnalytics.java
+END
+JavaSound.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/175/trunk/core/src/forplay/java/JavaSound.java
+END
+JavaMouse.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/74/trunk/core/src/forplay/java/JavaMouse.java
+END
+JavaGroupLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/207/trunk/core/src/forplay/java/JavaGroupLayer.java
+END
+JavaPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/core/src/forplay/java/JavaPath.java
+END

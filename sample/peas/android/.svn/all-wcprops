@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/206/trunk/sample/peas/android
+END
+peas-android.launch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/18/trunk/sample/peas/android/peas-android.launch
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9/trunk/sample/peas/android/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/sample/peas/android/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/sample/peas/android/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9/trunk/sample/peas/android/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/sample/peas/android/.gitignore
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/204/trunk/sample/peas/android/AndroidManifest.xml
+END

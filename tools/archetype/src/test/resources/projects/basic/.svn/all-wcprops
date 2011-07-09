@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/46/trunk/tools/archetype/src/test/resources/projects/basic
+END
+archetype.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/46/trunk/tools/archetype/src/test/resources/projects/basic/archetype.properties
+END
+goal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/46/trunk/tools/archetype/src/test/resources/projects/basic/goal.txt
+END

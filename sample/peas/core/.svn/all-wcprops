@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/177/trunk/sample/peas/core
+END
+peas-java.launch
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/sample/peas/core/peas-java.launch
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/116/trunk/sample/peas/core/.classpath
+END
+peas-html.launch
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/116/trunk/sample/peas/core/peas-html.launch
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/116/trunk/sample/peas/core/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/18/trunk/sample/peas/core/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/162/trunk/sample/peas/core/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/118/trunk/sample/peas/core/build.xml
+END

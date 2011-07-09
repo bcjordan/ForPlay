@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/87/trunk/sample/noise/lib/VorbisSPI1.0.3/src/javazoom/spi/vorbis/sampled/file
+END
+VorbisFileFormatType.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/87/trunk/sample/noise/lib/VorbisSPI1.0.3/src/javazoom/spi/vorbis/sampled/file/VorbisFileFormatType.java
+END
+VorbisAudioFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/87/trunk/sample/noise/lib/VorbisSPI1.0.3/src/javazoom/spi/vorbis/sampled/file/VorbisAudioFormat.java
+END
+VorbisAudioFileFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/87/trunk/sample/noise/lib/VorbisSPI1.0.3/src/javazoom/spi/vorbis/sampled/file/VorbisAudioFileFormat.java
+END
+VorbisAudioFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/87/trunk/sample/noise/lib/VorbisSPI1.0.3/src/javazoom/spi/vorbis/sampled/file/VorbisAudioFileReader.java
+END
+VorbisEncoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/87/trunk/sample/noise/lib/VorbisSPI1.0.3/src/javazoom/spi/vorbis/sampled/file/VorbisEncoding.java
+END

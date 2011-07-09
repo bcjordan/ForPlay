@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/162/trunk/sample/cute/core
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/114/trunk/sample/cute/core/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/114/trunk/sample/cute/core/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/sample/cute/core/.gitignore
+END
+cute-java.launch
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/sample/cute/core/cute-java.launch
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/162/trunk/sample/cute/core/pom.xml
+END
+cute-html.launch
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/114/trunk/sample/cute/core/cute-html.launch
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/118/trunk/sample/cute/core/build.xml
+END

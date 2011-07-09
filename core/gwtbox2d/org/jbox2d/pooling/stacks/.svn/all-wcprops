@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/pooling/stacks
+END
+TimeStepStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/pooling/stacks/TimeStepStack.java
+END
+Vec2Stack.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/pooling/stacks/Vec2Stack.java
+END
+TLStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/pooling/stacks/TLStack.java
+END
+TLRayCastOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/pooling/stacks/TLRayCastOutput.java
+END
+DynamicTLStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/pooling/stacks/DynamicTLStack.java
+END
+AABBStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/pooling/stacks/AABBStack.java
+END
+ContactSolverStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/pooling/stacks/ContactSolverStack.java
+END

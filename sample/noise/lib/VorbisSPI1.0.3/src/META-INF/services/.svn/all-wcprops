@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/87/trunk/sample/noise/lib/VorbisSPI1.0.3/src/META-INF/services
+END
+javax.sound.sampled.spi.AudioFileReader
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/87/trunk/sample/noise/lib/VorbisSPI1.0.3/src/META-INF/services/javax.sound.sampled.spi.AudioFileReader
+END
+javax.sound.sampled.spi.FormatConversionProvider
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/87/trunk/sample/noise/lib/VorbisSPI1.0.3/src/META-INF/services/javax.sound.sampled.spi.FormatConversionProvider
+END

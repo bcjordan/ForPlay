@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/208/trunk/core/src/forplay/core
+END
+Keyboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/core/src/forplay/core/Keyboard.java
+END
+AbstractLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/207/trunk/core/src/forplay/core/AbstractLayer.java
+END
+Graphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/core/src/forplay/core/Graphics.java
+END
+Audio.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/core/src/forplay/core/Audio.java
+END
+DebugDrawBox2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/core/src/forplay/core/DebugDrawBox2D.java
+END
+CanvasLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/core/src/forplay/core/CanvasLayer.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/core/src/forplay/core/Game.java
+END
+Json.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/core/src/forplay/core/Json.java
+END
+AssetManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/135/trunk/core/src/forplay/core/AssetManager.java
+END
+Transform.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9/trunk/core/src/forplay/core/Transform.java
+END
+GroupLayerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/208/trunk/core/src/forplay/core/GroupLayerImpl.java
+END
+AbstractCachingAssetManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/core/src/forplay/core/AbstractCachingAssetManager.java
+END
+Pattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/core/src/forplay/core/Pattern.java
+END
+ImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/83/trunk/core/src/forplay/core/ImageLayer.java
+END
+Pointer.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/80/trunk/core/src/forplay/core/Pointer.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9/trunk/core/src/forplay/core/Log.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/core/src/forplay/core/Image.java
+END
+CanvasSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/core/src/forplay/core/CanvasSurface.java
+END
+Asserts.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/175/trunk/core/src/forplay/core/Asserts.java
+END
+Platform.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/78/trunk/core/src/forplay/core/Platform.java
+END
+Analytics.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/84/trunk/core/src/forplay/core/Analytics.java
+END
+Sound.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/core/src/forplay/core/Sound.java
+END
+GroupLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/208/trunk/core/src/forplay/core/GroupLayer.java
+END
+Gradient.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/core/src/forplay/core/Gradient.java
+END
+AbstractAssetManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/core/src/forplay/core/AbstractAssetManager.java
+END
+ResourceCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/core/src/forplay/core/ResourceCallback.java
+END
+Storage.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/core/src/forplay/core/Storage.java
+END
+Canvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/191/trunk/core/src/forplay/core/Canvas.java
+END
+Layer.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/207/trunk/core/src/forplay/core/Layer.java
+END
+ForPlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/135/trunk/core/src/forplay/core/ForPlay.java
+END
+CanvasImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/core/src/forplay/core/CanvasImage.java
+END
+Color.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/core/src/forplay/core/Color.java
+END
+RegularExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/core/src/forplay/core/RegularExpression.java
+END
+Touch.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/191/trunk/core/src/forplay/core/Touch.java
+END
+SurfaceLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/core/src/forplay/core/SurfaceLayer.java
+END
+Net.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/core/src/forplay/core/Net.java
+END
+AutoClientBundleWithLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9/trunk/core/src/forplay/core/AutoClientBundleWithLookup.java
+END
+Mouse.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/78/trunk/core/src/forplay/core/Mouse.java
+END
+Surface.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/core/src/forplay/core/Surface.java
+END
+Path.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/core/src/forplay/core/Path.java
+END
+AssetWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/175/trunk/core/src/forplay/core/AssetWatcher.java
+END

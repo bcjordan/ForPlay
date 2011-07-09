@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/structs/collision/distance
+END
+SimplexCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/structs/collision/distance/SimplexCache.java
+END
+DistanceInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/structs/collision/distance/DistanceInput.java
+END
+DistanceOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/structs/collision/distance/DistanceOutput.java
+END
+DistanceProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/core/gwtbox2d/org/jbox2d/structs/collision/distance/DistanceProxy.java
+END

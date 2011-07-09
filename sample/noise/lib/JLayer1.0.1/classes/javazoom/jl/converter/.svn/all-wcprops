@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/classes/javazoom/jl/converter
+END
+WaveFile$WaveFileSample.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/classes/javazoom/jl/converter/WaveFile$WaveFileSample.class
+END
+WaveFileObuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/classes/javazoom/jl/converter/WaveFileObuffer.class
+END
+Converter$PrintWriterProgressListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/classes/javazoom/jl/converter/Converter$PrintWriterProgressListener.class
+END
+WaveFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/classes/javazoom/jl/converter/WaveFile.class
+END
+jlc$jlcArgs.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/classes/javazoom/jl/converter/jlc$jlcArgs.class
+END
+RiffFile$RiffChunkHeader.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/classes/javazoom/jl/converter/RiffFile$RiffChunkHeader.class
+END
+WaveFile$WaveFormat_ChunkData.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/classes/javazoom/jl/converter/WaveFile$WaveFormat_ChunkData.class
+END
+RiffFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/classes/javazoom/jl/converter/RiffFile.class
+END
+Converter$ProgressListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/classes/javazoom/jl/converter/Converter$ProgressListener.class
+END
+Converter.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/classes/javazoom/jl/converter/Converter.class
+END
+jlc.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/classes/javazoom/jl/converter/jlc.class
+END
+WaveFile$WaveFormat_Chunk.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/87/trunk/sample/noise/lib/JLayer1.0.1/classes/javazoom/jl/converter/WaveFile$WaveFormat_Chunk.class
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/209/trunk
+END
+build-maven.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/133/trunk/build-maven.xml
+END
+build-common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/133/trunk/build-common.xml
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/99/trunk/.gitignore
+END
+.dir-locals.el
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/138/trunk/.dir-locals.el
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/101/trunk/COPYING
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/162/trunk/pom.xml
+END
+eclipse_format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/eclipse_format.xml
+END
+CONTRIBUTORS
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/137/trunk/CONTRIBUTORS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/101/trunk/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/133/trunk/build.xml
+END

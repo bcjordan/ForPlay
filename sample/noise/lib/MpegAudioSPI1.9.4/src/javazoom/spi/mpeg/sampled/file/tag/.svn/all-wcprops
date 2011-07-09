@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4/src/javazoom/spi/mpeg/sampled/file/tag
+END
+IcyInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4/src/javazoom/spi/mpeg/sampled/file/tag/IcyInputStream.java
+END
+IcyTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4/src/javazoom/spi/mpeg/sampled/file/tag/IcyTag.java
+END
+MP3TagParseSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4/src/javazoom/spi/mpeg/sampled/file/tag/MP3TagParseSupport.java
+END
+StringableTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4/src/javazoom/spi/mpeg/sampled/file/tag/StringableTag.java
+END
+TagParseEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4/src/javazoom/spi/mpeg/sampled/file/tag/TagParseEvent.java
+END
+MP3Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4/src/javazoom/spi/mpeg/sampled/file/tag/MP3Tag.java
+END
+TagParseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4/src/javazoom/spi/mpeg/sampled/file/tag/TagParseListener.java
+END
+MP3MetadataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/87/trunk/sample/noise/lib/MpegAudioSPI1.9.4/src/javazoom/spi/mpeg/sampled/file/tag/MP3MetadataParser.java
+END

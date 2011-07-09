@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/206/trunk/sample/cute/android
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/sample/cute/android/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/sample/cute/android/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/sample/cute/android/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/sample/cute/android/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/sample/cute/android/.gitignore
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/204/trunk/sample/cute/android/AndroidManifest.xml
+END
+cute-android.launch
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/sample/cute/android/cute-android.launch
+END

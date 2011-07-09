@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/88/trunk/sample/noise/noise/.settings
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/88/trunk/sample/noise/noise/.settings/org.eclipse.jdt.core.prefs
+END
+com.google.gwt.eclipse.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/88/trunk/sample/noise/noise/.settings/com.google.gwt.eclipse.core.prefs
+END
+com.google.appengine.eclipse.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/88/trunk/sample/noise/noise/.settings/com.google.appengine.eclipse.core.prefs
+END

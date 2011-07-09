@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/25/trunk/core/webgl/com/google/gwt/typedarrays/client
+END
+ArrayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/typedarrays/client/ArrayUtils.java
+END
+ArrayBufferView.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/typedarrays/client/ArrayBufferView.java
+END
+DataView.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/typedarrays/client/DataView.java
+END
+Uint16Array.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/typedarrays/client/Uint16Array.java
+END
+Uint8Array.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/25/trunk/core/webgl/com/google/gwt/typedarrays/client/Uint8Array.java
+END
+ArrayBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/typedarrays/client/ArrayBuffer.java
+END
+Float32Array.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/typedarrays/client/Float32Array.java
+END
+Int32Array.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/typedarrays/client/Int32Array.java
+END

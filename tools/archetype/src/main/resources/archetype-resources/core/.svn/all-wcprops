@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/162/trunk/tools/archetype/src/main/resources/archetype-resources/core
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/46/trunk/tools/archetype/src/main/resources/archetype-resources/core/.classpath
+END
+__ProjectName__html.launch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/46/trunk/tools/archetype/src/main/resources/archetype-resources/core/__ProjectName__html.launch
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/46/trunk/tools/archetype/src/main/resources/archetype-resources/core/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/46/trunk/tools/archetype/src/main/resources/archetype-resources/core/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/162/trunk/tools/archetype/src/main/resources/archetype-resources/core/pom.xml
+END
+__ProjectName__java.launch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/46/trunk/tools/archetype/src/main/resources/archetype-resources/core/__ProjectName__java.launch
+END

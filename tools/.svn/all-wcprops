@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/162/trunk/tools
+END
+generate_sample.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/48/trunk/tools/generate_sample.sh
+END
+upload.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/102/trunk/tools/upload.py
+END

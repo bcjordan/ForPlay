@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/175/trunk/sample/sprites/core
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/152/trunk/sample/sprites/core/.classpath
+END
+sprites-java.launch
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/152/trunk/sample/sprites/core/sprites-java.launch
+END
+sprites-html.launch
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/152/trunk/sample/sprites/core/sprites-html.launch
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/152/trunk/sample/sprites/core/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/152/trunk/sample/sprites/core/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/162/trunk/sample/sprites/core/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/152/trunk/sample/sprites/core/build.xml
+END

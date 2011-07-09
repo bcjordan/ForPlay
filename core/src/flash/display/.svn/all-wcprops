@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/207/trunk/core/src/flash/display
+END
+DisplayObjectContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/160/trunk/core/src/flash/display/DisplayObjectContainer.java
+END
+StageScaleMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9/trunk/core/src/flash/display/StageScaleMode.java
+END
+Graphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/160/trunk/core/src/flash/display/Graphics.java
+END
+LoaderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/160/trunk/core/src/flash/display/LoaderInfo.java
+END
+Stage.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/119/trunk/core/src/flash/display/Stage.java
+END
+InteractiveObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/160/trunk/core/src/flash/display/InteractiveObject.java
+END
+BitmapData.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9/trunk/core/src/flash/display/BitmapData.java
+END
+Sprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/160/trunk/core/src/flash/display/Sprite.java
+END
+TextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9/trunk/core/src/flash/display/TextField.java
+END
+BlendMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/191/trunk/core/src/flash/display/BlendMode.java
+END
+Bitmap.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/160/trunk/core/src/flash/display/Bitmap.java
+END
+DisplayObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/207/trunk/core/src/flash/display/DisplayObject.java
+END
+StageAlign.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9/trunk/core/src/flash/display/StageAlign.java
+END

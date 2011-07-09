@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9/trunk/core/webgl/com/google/gwt/webgl/client
+END
+WebGLTexture.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/webgl/client/WebGLTexture.java
+END
+WebGLRenderingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9/trunk/core/webgl/com/google/gwt/webgl/client/WebGLRenderingContext.java
+END
+WebGLFramebuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/webgl/client/WebGLFramebuffer.java
+END
+WebGLShader.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/webgl/client/WebGLShader.java
+END
+WebGLObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/webgl/client/WebGLObject.java
+END
+WebGLActiveInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/webgl/client/WebGLActiveInfo.java
+END
+WebGLProgram.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/webgl/client/WebGLProgram.java
+END
+WebGLUniformLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/webgl/client/WebGLUniformLocation.java
+END
+WebGLRenderbuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/webgl/client/WebGLRenderbuffer.java
+END
+WebGLBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/webgl/client/WebGLBuffer.java
+END
+WebGLContextAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9/trunk/core/webgl/com/google/gwt/webgl/client/WebGLContextAttributes.java
+END
+WebGLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/core/webgl/com/google/gwt/webgl/client/WebGLUtil.java
+END

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/207/trunk/android/src/forplay/android
+END
+AndroidGraphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/204/trunk/android/src/forplay/android/AndroidGraphics.java
+END
+AndroidKeyboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/android/src/forplay/android/AndroidKeyboard.java
+END
+GameThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/204/trunk/android/src/forplay/android/GameThread.java
+END
+AndroidAudio.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/204/trunk/android/src/forplay/android/AndroidAudio.java
+END
+GameLoop.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/204/trunk/android/src/forplay/android/GameLoop.java
+END
+GameView.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/204/trunk/android/src/forplay/android/GameView.java
+END
+AndroidStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/204/trunk/android/src/forplay/android/AndroidStorage.java
+END
+AndroidCanvasLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/207/trunk/android/src/forplay/android/AndroidCanvasLayer.java
+END
+AndroidAssetManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/204/trunk/android/src/forplay/android/AndroidAssetManager.java
+END
+AndroidCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/204/trunk/android/src/forplay/android/AndroidCanvas.java
+END
+GameViewSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/204/trunk/android/src/forplay/android/GameViewSurface.java
+END
+AndroidLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/android/src/forplay/android/AndroidLayer.java
+END
+AndroidPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/android/src/forplay/android/AndroidPattern.java
+END
+AndroidHttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/204/trunk/android/src/forplay/android/AndroidHttpClient.java
+END
+AndroidImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/207/trunk/android/src/forplay/android/AndroidImageLayer.java
+END
+AndroidPointer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/80/trunk/android/src/forplay/android/AndroidPointer.java
+END
+AndroidRegularExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/204/trunk/android/src/forplay/android/AndroidRegularExpression.java
+END
+AndroidLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/193/trunk/android/src/forplay/android/AndroidLog.java
+END
+GameViewDraw.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/204/trunk/android/src/forplay/android/GameViewDraw.java
+END
+AndroidImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/204/trunk/android/src/forplay/android/AndroidImage.java
+END
+AndroidPlatform.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/204/trunk/android/src/forplay/android/AndroidPlatform.java
+END
+AndroidSurfaceLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/207/trunk/android/src/forplay/android/AndroidSurfaceLayer.java
+END
+GameActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/204/trunk/android/src/forplay/android/GameActivity.java
+END
+AndroidNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/204/trunk/android/src/forplay/android/AndroidNet.java
+END
+AndroidAnalytics.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/76/trunk/android/src/forplay/android/AndroidAnalytics.java
+END
+AndroidSound.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/204/trunk/android/src/forplay/android/AndroidSound.java
+END
+AndroidGroupLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/207/trunk/android/src/forplay/android/AndroidGroupLayer.java
+END
+AndroidSurfaceState.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/204/trunk/android/src/forplay/android/AndroidSurfaceState.java
+END
+AndroidPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/android/src/forplay/android/AndroidPath.java
+END
+AndroidGradient.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/android/src/forplay/android/AndroidGradient.java
+END
